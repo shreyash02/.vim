@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/shreyas/main/qa/test/agave/hyperint_rpc_framework'
+let g:netrw_dirhist_2='/home/shreyas/main/builds/build-hypi_fw_changes-dbg-clang/test_output/hyperint_rpc_tests/HyperintRpcTests'
+let g:netrw_dirhist_3='/home/shreyas/main/builds/build-hypi_fw_changes-dbg-clang/test_output/hyperint_rpc_tests/HyperintRpcTests/test_mount_datastore_rpc'
+let g:netrw_dirhist_4='/home/shreyas/main/qa/test/agave/hyperint_rpc_framework/test_parameters'
+let g:netrw_dirhist_5='/home/shreyas/main/tools/jita/bin'
+let g:netrw_dirhist_6='/home/shreyas/main/stargate/nfs_adapter'
+let g:netrw_dirhist_7='/home/shreyas/main/tools/jita/client'
+let g:netrw_dirhist_8='/home/shreyas/main/tools/auto_bisector'
